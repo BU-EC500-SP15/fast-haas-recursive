@@ -13,8 +13,8 @@ Recursive HaaS with fast provisioning
   1. Deploy customer OS images on physical nodes as fast as possible
   2. Reclaim, nodes from customers to free pool as fast as possible
   
-    a. Reclaiming involves two steps, removing the customer OS from the nodes and
-    b. Replacing it with a standard os/bios-like image without rebooting the nodes.
+    1. Reclaiming involves two steps, removing the customer OS from the nodes and
+    2. Replacing it with a standard os/bios-like image without rebooting the nodes.
 
   As the final outcome, we would like to have a solution by which a customer can
     1. Seek physical servers from HaaS
