@@ -1,7 +1,7 @@
 # fast-haas-recursive
 Recursive HaaS with fast provisioning
 
-** Outline
+## Outline
 
 1. Discuss Vision - Discuss Properties (eg. Security needs, Functionality, Performance, scalability,etc.)
 
